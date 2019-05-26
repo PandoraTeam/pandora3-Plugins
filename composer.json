@@ -13,6 +13,8 @@
 		}
 	],
 	"require": {
-		"php": ">=7.1"
+		"php": ">=7.1",
+
+		"pandora3/plugin-authorisation": "^1.0"
 	}
 }
