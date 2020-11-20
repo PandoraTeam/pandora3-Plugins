@@ -1,3 +1,4 @@
 [submodule "Authorisation"]
 	path = Authorisation
 	url = https://github.com/PandoraTeam/pandora3-plugin-Authorisation.git
+	update = merge
